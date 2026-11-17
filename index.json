@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "name": "Arabic Discord Plugins",
+  "description": "إضافة التعريب العربي الشامل لتطبيق Valenced",
+  "plugins": {
+    "arabic.ui": {
+      "name": "التعريب العربي (Arabic UI)",
+      "description": "تعريب واجهة دسكورد بالكامل للعربية (5004 عبارة) مع ترجمة المحادثات الفورية ودعم DeepL API.",
+      "author": "Arabic Community",
+      "icon": "LanguageIcon",
+      "channels": {
+        "latest": "1.1.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.0.zip",
+          "sha256": "d5d64f7f3ffec244ebb6d3035d0fe1ed4b0a31875e854fb70d41c067154b0245",
+          "size": 126172,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.1": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.1.zip",
+          "sha256": "ee01c7cd6a25f5e6d2ad035ed7a1d3af886afa175fc1e8a3bc61cf6149b603bf",
+          "size": 127212,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.2": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.2.zip",
+          "sha256": "17889803010653b4db78b2d4794b57e03a4b6c3539070b24ebe3c66d1058f5ac",
+          "size": 129785,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.3": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.3.zip",
+          "sha256": "fcfc0bbb4d5587fd790c1653ad8f903feb787780b8289bac0fa32b3980a5711b",
+          "size": 129870,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.4": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.4.zip",
+          "sha256": "eaaf91f60ce6b935f7233a15f0b6bb0b096cbc419dee69d1f362fd1d83feb9a8",
+          "size": 129751,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.5": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.5.zip",
+          "sha256": "866bf9c67a7aacbfc25ae198f5243df7f7f12c02436ea6f5ed59a40a2ed44158",
+          "size": 133013,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.6": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.6.zip",
+          "sha256": "801e3402c751998bbdd267f30e4f337412ebf9c2dfb16ee2211e032aa0a4aad5",
+          "size": 133925,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.7": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.7.zip",
+          "sha256": "4dd1b74d34d27fb7b334e67bc67b4c5c3250bdac1dd5ac4b6d8b3cbaec904d3b",
+          "size": 135353,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.8": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.8.zip",
+          "sha256": "2963e3af9436640637fc2162a6cf79bf73f9b992495b70a740beb7b1ca5de1ff",
+          "size": 136229,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.9": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.0.9.zip",
+          "sha256": "bf0ecf2ac18476404ae1134b90ae07706af52a9c7fbfa9cced2bbe434232f61e",
+          "size": 136358,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.0": {
+          "url": "http://127.0.0.1:8080/arabic.ui@1.1.0.zip",
+          "sha256": "f1d3b507479a9712861fd1b4a2a8241edb79698cba8c57ccdc9a93b5b74017cb",
+          "size": 137015,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}

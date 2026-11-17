@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "id": "arabic.ui",
+  "name": "التعريب العربي (Arabic UI)",
+  "description": "تعريب واجهة دسكورد بالكامل للعربية (5004 عبارة) مع ترجمة المحادثات الفورية ودعم DeepL API.",
+  "author": "Arabic Community",
+  "version": "1.1.0",
+  "icon": "LanguageIcon",
+  "dependencies": {
+    "valenced.api": {
+      "version": ">=1 <2"
+    },
+    "discord": {
+      "version": "*"
+    }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}

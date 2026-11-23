@@ -9,11 +9,11 @@
       "author": "Arabic Community",
       "icon": "LanguageIcon",
       "channels": {
-        "latest": "1.1.0"
+        "latest": "1.1.1"
       },
       "versions": {
         "1.0.0": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.0.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.0.zip",
           "sha256": "d5d64f7f3ffec244ebb6d3035d0fe1ed4b0a31875e854fb70d41c067154b0245",
           "size": 126172,
           "dependencies": {
@@ -26,7 +26,7 @@
           }
         },
         "1.0.1": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.1.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.1.zip",
           "sha256": "ee01c7cd6a25f5e6d2ad035ed7a1d3af886afa175fc1e8a3bc61cf6149b603bf",
           "size": 127212,
           "dependencies": {
@@ -39,7 +39,7 @@
           }
         },
         "1.0.2": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.2.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.2.zip",
           "sha256": "17889803010653b4db78b2d4794b57e03a4b6c3539070b24ebe3c66d1058f5ac",
           "size": 129785,
           "dependencies": {
@@ -52,7 +52,7 @@
           }
         },
         "1.0.3": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.3.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.3.zip",
           "sha256": "fcfc0bbb4d5587fd790c1653ad8f903feb787780b8289bac0fa32b3980a5711b",
           "size": 129870,
           "dependencies": {
@@ -65,7 +65,7 @@
           }
         },
         "1.0.4": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.4.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.4.zip",
           "sha256": "eaaf91f60ce6b935f7233a15f0b6bb0b096cbc419dee69d1f362fd1d83feb9a8",
           "size": 129751,
           "dependencies": {
@@ -78,7 +78,7 @@
           }
         },
         "1.0.5": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.5.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.5.zip",
           "sha256": "866bf9c67a7aacbfc25ae198f5243df7f7f12c02436ea6f5ed59a40a2ed44158",
           "size": 133013,
           "dependencies": {
@@ -91,7 +91,7 @@
           }
         },
         "1.0.6": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.6.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.6.zip",
           "sha256": "801e3402c751998bbdd267f30e4f337412ebf9c2dfb16ee2211e032aa0a4aad5",
           "size": 133925,
           "dependencies": {
@@ -104,7 +104,7 @@
           }
         },
         "1.0.7": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.7.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.7.zip",
           "sha256": "4dd1b74d34d27fb7b334e67bc67b4c5c3250bdac1dd5ac4b6d8b3cbaec904d3b",
           "size": 135353,
           "dependencies": {
@@ -117,7 +117,7 @@
           }
         },
         "1.0.8": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.8.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.8.zip",
           "sha256": "2963e3af9436640637fc2162a6cf79bf73f9b992495b70a740beb7b1ca5de1ff",
           "size": 136229,
           "dependencies": {
@@ -130,7 +130,7 @@
           }
         },
         "1.0.9": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.0.9.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.0.9.zip",
           "sha256": "bf0ecf2ac18476404ae1134b90ae07706af52a9c7fbfa9cced2bbe434232f61e",
           "size": 136358,
           "dependencies": {
@@ -143,7 +143,7 @@
           }
         },
         "1.1.0": {
-          "url": "http://127.0.0.1:8080/arabic.ui@1.1.0.zip",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.1.0.zip",
           "sha256": "f1d3b507479a9712861fd1b4a2a8241edb79698cba8c57ccdc9a93b5b74017cb",
           "size": 137015,
           "dependencies": {
@@ -154,8 +154,311 @@
               "version": "*"
             }
           }
+        },
+        "1.1.1": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/arabic.ui@1.1.1.zip",
+          "sha256": "0dccdfbfb626fd74d7e4e4dde80a7506ba1e062a0531dbe79ec77177d37ac2ed",
+          "size": 139002,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
         }
       }
+    },
+    "bahr.purge": {
+      "name": "حذف رسائلي (Message Purge)",
+      "description": "حذف كل رسائلك أو عدد معين من رسائلك في أي محادثة خاصة أو قروب أو قناة سيرفر، عبر أوامر سريعة في الشات أو من واجهة الإعدادات.",
+      "author": "منصة بحر الدعوية",
+      "icon": "TrashIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.purge@1.0.0.zip",
+          "sha256": "5effab94999bf1548d6883e164e17e368bae72b5109275f1af106ecfcb9a8109",
+          "size": 10978,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "bahr.autosend": {
+      "name": "الإرسال التلقائي (Auto Sender)",
+      "description": "إرسال رسائل تلقائياً إلى أي غرفة أو محادثة خاصة أو قروب مع تحديد نص الرسالة، الفاصل الزمني أو معدل الإرسال بالثانية، وقت البدء، وعدد الرسائل.",
+      "author": "منصة بحر الدعوية",
+      "icon": "ClockIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.autosend@1.0.0.zip",
+          "sha256": "f7fac01c3b0817255677c61e4c914c3d8802b60ec6cec82cbc0bb9fa9aba39fc",
+          "size": 11096,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "bahr.guard": {
+      "name": "حارس بحر (كشف المحتوى الممنوع)",
+      "description": "أداة مساعدة للمراجعة البشرية: تفحص نصوص الخادم المحدد فقط بالذكاء الاصطناعي (نظام الطبقتين واقتباس حرفي)، مع نطاق افتراضي ضيق (الإدارة المحددة فقط)، وإرسال تلقائي معطّل افتراضياً، وبدون أي حظر أو بلاغ رسمي تلقائي لديسكورد.",
+      "author": "منصة بحر الدعوية",
+      "icon": "ShieldIcon",
+      "channels": {
+        "latest": "2.5.3"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.0.0.zip",
+          "sha256": "0e3ac5e0130e2e27feee37048071f75d7d513f0b713a49a2cff04f6901dd842a",
+          "size": 16013,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.1.0.zip",
+          "sha256": "4ce6fff1e566b126176c22aae3050a7c5eb5b07f7fe7151c2766b7ba016dff96",
+          "size": 21268,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.2.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.2.0.zip",
+          "sha256": "96b89aefb4cd65f18be1414ff1c7316cdef6bc4a6cf2c907dc0e71746eb43b51",
+          "size": 27228,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.3.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.3.0.zip",
+          "sha256": "0b4fc73d63363892b1cfd9516c642d7f87ff214ec63755338c9090a0c6bdbf56",
+          "size": 32169,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.4.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.4.0.zip",
+          "sha256": "dcc5ffaef7767615c3cb6040bcee751fba2534f4c469146dbae1747a1c307961",
+          "size": 35209,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.5.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.5.0.zip",
+          "sha256": "03b3bb1f40a43d0ae424e892dc1c9051394a4b4604975146bdc976206f1f842b",
+          "size": 40448,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.6.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.6.0.zip",
+          "sha256": "ea058c2f70b2e2f35756810555bf6a1cfd294cc053e243daf3f403986e880c35",
+          "size": 42138,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.6.1": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.6.1.zip",
+          "sha256": "c9c9f49b3a0cf6c481dcfdc37bb44611d2c56fccd4b396334d4ff8504a90dbcd",
+          "size": 42659,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.7.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.7.0.zip",
+          "sha256": "4d24fa5150c970f286f1461cf0bf060671f1e06b57ed03701414c272a57a5cec",
+          "size": 44736,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.8.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.8.0.zip",
+          "sha256": "018ad1ffef53e34853cadd7a486aa45f671cb75fb94ee2a9c618ade944119d4d",
+          "size": 45750,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.9.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@1.9.0.zip",
+          "sha256": "e08fb7d381fe441783b12fb8a08e40e317980182673168300e60c71c0343ea24",
+          "size": 46582,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.0.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.0.0.zip",
+          "sha256": "27e0e808e5db19117ca29311bb3ddbac24d706b870c6c63866c0e1065aaef2b9",
+          "size": 48123,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.1.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.1.0.zip",
+          "sha256": "623800546ef045ef77a43645cda1eecea76cff1102defd24c04adf8bd5c8d749",
+          "size": 49984,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.2.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.2.0.zip",
+          "sha256": "8dbf40b4cacdfd56f5a4ae6384502e917c7c95d4f6ff0b7a51fa1b6b5d5199fa",
+          "size": 53393,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.3.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.3.0.zip",
+          "sha256": "703c724490f05c01400bdc5de27dfea3ab69062ad797801ede058cacf4893eb1",
+          "size": 58217,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.4.0": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.4.0.zip",
+          "sha256": "ec8343748c60467b12ea98d6ad3b42dc1f53e7ed3db3e93eb2b528b8ad4dc92d",
+          "size": 60544,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "2.5.0": {
+          "hash": "sha256-6baeb835909cb6a869da7339eae829f16a69e015b3f18613fea6e9cf90439c14",
+          "ChangeLog": "v2.5.0: تقييد النطاق الافتراضي للأضيق، تعطيل autoForward افتراضياً، تنقية السجلات والأخطاء من المفاتيح والنصوص، تسريع جلب الرسائل، حفظ الإعدادات القديمة بأمان، واختبارات اصطناعية شاملة.",
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.5.0.zip",
+          "size": 77105,
+          "sha256": "bbaf1596f0cdfd28ba425be88eedcd71549f4075a9e7f18278b545ad6d28e9ea"
+        },
+        "2.5.3": {
+          "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.5.3.zip",
+          "sha256": "64c32a40d85325ad665ac6fef0bad93dd52d4cc47ec280a4026a875357b6c587",
+          "size": 74801,
+          "ChangeLog": "v2.5.3: إرسال 100 رسالة بالتوازي عبر 6 حسابات OmniRoute (6×100 = 600 رسالة)، خيار حصر الفحص على OmniRoute فقط دون أي مزودات خارجية، والرصد المباشر والفوري بدون تدقيق ومراجعة ثانية.",
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      },
+      "sha256": "64c32a40d85325ad665ac6fef0bad93dd52d4cc47ec280a4026a875357b6c587",
+      "version": "2.5.3"
     }
   }
 }

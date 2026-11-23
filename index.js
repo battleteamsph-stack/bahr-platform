@@ -5255,7 +5255,91 @@
     "Show Dev Tools Widget": "إظهار أداة Dev Tools",
     "Show Dev Tools": "إظهار Dev Tools",
     "Valenced": "منصة بحر الدعوية",
-    "Discord": "منصة بحر الدعوية"
+    "Discord": "منصة بحر الدعوية",
+    "Report Message": "الإبلاغ عن الرسالة",
+    "Report User": "الإبلاغ عن المستخدم",
+    "Report Server": "الإبلاغ عن الخادم",
+    "Report Profile": "الإبلاغ عن الملف الشخصي",
+    "Report": "إبلاغ",
+    "Submit Report": "إرسال البلاغ",
+    "Submit": "إرسال",
+    "Selected message": "الرسالة المختارة",
+    "I don't like it": "لا يعجبني هذا",
+    "I just don't like it": "فقط لا يعجبني",
+    "It's annoying or not interesting": "مزعج أو غير مثير للاهتمام",
+    "Spam": "رسائل مزعجة (سبام)",
+    "Abuse or harassment": "إساءة أو مضايقة",
+    "Harmful misinformation or glorifying violence": "معلومات مضللة ضارة أو تمجيد العنف",
+    "Exposing private identifying information": "كشف معلومات شخصية خاصة",
+    "Something else": "شيء آخر",
+    "Inappropriate profile": "ملف شخصي غير لائق",
+    "Illegal content": "محتوى غير قانوني",
+    "Self-harm or suicide": "إيذاء النفس أو الانتحار",
+    "Suicide or self-harm": "الانتحار أو إيذاء النفس",
+    "Child safety": "سلامة الأطفال",
+    "Child sexual abuse material (CSAM)": "مواد استغلال جنسي للأطفال",
+    "CSAM or child endangerment": "استغلال أو تعريض الأطفال للخطر",
+    "Non-consensual sexual content": "محتوى جنسي دون تراضٍ",
+    "Non-consensual intimate images": "صور حميمية منشورة دون موافقة",
+    "Nudity or sexual content": "عري أو محتوى جنسي",
+    "Fraud or scams": "احتيال أو نصب",
+    "Fraud or deceptive practices": "احتيال أو ممارسات خادعة",
+    "Hate speech": "خطاب كراهية",
+    "Hate speech or discrimination": "خطاب كراهية أو تمييز",
+    "Violence or threats": "عنف أو تهديدات",
+    "Threats of violence": "تهديدات بالعنف",
+    "Threatening real-world harm": "تهديد بأذى حقيقي",
+    "Glorifying or inciting violence": "تمجيد العنف أو التحريض عليه",
+    "Violent extremism or terrorism": "التطرف العنيف أو الإرهاب",
+    "Graphic violence or gore": "عنف دموي أو مشاهد قاسية",
+    "Harmful health misinformation": "معلومات صحية مضللة وضارة",
+    "Election or civic misinformation": "معلومات مضللة عن الانتخابات أو الشأن العام",
+    "Bullying or harassment": "تنمر أو مضايقة",
+    "Targeted harassment": "مضايقة مستهدفة",
+    "Sexual harassment": "تحرش جنسي",
+    "Encouraging self-harm": "تشجيع على إيذاء النفس",
+    "Impersonation": "انتحال شخصية",
+    "Abusing someone else": "الإساءة لشخص آخر",
+    "Abusing me": "الإساءة لي",
+    "Phishing or scam links": "روابط تصيد أو احتيال",
+    "Malware or viruses": "برامج ضارة أو فيروسات",
+    "Unsolicited advertisements": "إعلانات غير مرغوب فيها",
+    "Mass mentions or flooding": "منشن جماعي أو إغراق بالرسائل",
+    "Fake giveaways or Nitro scams": "هدايا مزيفة أو احتيال نيترو",
+    "Selling accounts or services": "بيع حسابات أو خدمات",
+    "Bot or automated spam": "رسائل مزعجة من بوت أو تلقائية",
+    "Sharing my private information": "مشاركة معلوماتي الخاصة",
+    "Sharing someone else's private information": "مشاركة معلومات شخص آخر الخاصة",
+    "Financial or government ID info": "معلومات مالية أو هويات حكومية",
+    "Home address or phone number": "عنوان المنزل أو رقم الهاتف",
+    "Intellectual property infringement": "انتهاك حقوق الملكية الفكرية",
+    "Copyright or trademark violation": "انتهاك حقوق النشر أو العلامة التجارية",
+    "Hacking or cyberattacks": "اختراق أو هجمات إلكترونية",
+    "Sale of illegal or regulated goods": "بيع سلع غير قانونية أو خاضعة للرقابة",
+    "What's happening?": "ما الذي يحدث؟",
+    "Why are you reporting this?": "لماذا تبلغ عن هذا؟",
+    "Why are you reporting this message?": "لماذا تبلغ عن هذه الرسالة؟",
+    "Why are you reporting this user?": "لماذا تبلغ عن هذا المستخدم؟",
+    "Select a reason": "اختر سبباً",
+    "Additional details": "تفاصيل إضافية",
+    "Tell us more (optional)": "أخبرنا المزيد (اختياري)",
+    "Add more context": "أضف مزيداً من السياق",
+    "Thank you for your report": "شكراً لك على بلاغك",
+    "Thanks for letting us know": "شكراً لإعلامنا",
+    "Report submitted": "تم إرسال البلاغ",
+    "We received your report": "لقد استلمنا بلاغك",
+    "What you can do next": "ما يمكنك فعله تالياً",
+    "Other actions you can take": "إجراءات أخرى يمكنك اتخاذها",
+    "You can also block this user": "يمكنك أيضاً حظر هذا المستخدم",
+    "Block user": "حظر المستخدم",
+    "Mute channel": "كتم القناة",
+    "Leave server": "مغادرة الخادم",
+    "Next": "التالي",
+    "Back": "رجوع",
+    "Done": "تم",
+    "Close": "إغلاق",
+    "Skip": "تخطي",
+    "Optional": "اختياري"
 };
 
     function isSafeUIAutoString(core) {
@@ -5288,6 +5372,49 @@
         return txt;
     }
 
+    var TEXT_PROPS = ["placeholder", "label", "title", "text", "description", "subtitle", "subLabel", "header"];
+
+    function patchPropsObject(props) {
+        if (!props || typeof props !== "object") return props;
+        var updated = null;
+        for (var p = 0; p < TEXT_PROPS.length; p++) {
+            var key = TEXT_PROPS[p];
+            if (typeof props[key] === "string") {
+                var rep = trValenced(props[key]);
+                if (rep !== props[key]) {
+                    if (!updated) updated = Object.assign({}, props);
+                    updated[key] = rep;
+                }
+            }
+        }
+        var currProps = updated || props;
+        if (typeof currProps.children === "string") {
+            var repCh = trValenced(currProps.children);
+            if (repCh !== currProps.children) {
+                if (!updated) updated = Object.assign({}, currProps);
+                updated.children = repCh;
+            }
+        } else if (Array.isArray(currProps.children)) {
+            var changed = false;
+            var nextArr = [];
+            for (var j = 0; j < currProps.children.length; j++) {
+                var item = currProps.children[j];
+                if (typeof item === "string") {
+                    var repItem = trValenced(item);
+                    if (repItem !== item) changed = true;
+                    nextArr.push(repItem);
+                } else {
+                    nextArr.push(item);
+                }
+            }
+            if (changed) {
+                if (!updated) updated = Object.assign({}, currProps);
+                updated.children = nextArr;
+            }
+        }
+        return updated || props;
+    }
+
     function patchValencedUI(cleanup, patcher) {
         var R = getReact();
         var JSX = (typeof valenced !== "undefined" && valenced.react && valenced.react.ReactJSXRuntime) || null;
@@ -5295,11 +5422,9 @@
             try {
                 cleanup(patcher.before(R, "createElement", function (args) {
                     try {
-                        if (args[1] && typeof args[1].children === "string") {
-                            var rep = trValenced(args[1].children);
-                            if (rep !== args[1].children) {
-                                args[1] = Object.assign({}, args[1], { children: rep });
-                            }
+                        if (args[1] && typeof args[1] === "object") {
+                            var newP = patchPropsObject(args[1]);
+                            if (newP !== args[1]) args[1] = newP;
                         }
                         for (var i = 2; i < args.length; i++) {
                             if (typeof args[i] === "string") {
@@ -5317,34 +5442,9 @@
                     try {
                         cleanup(patcher.before(JSX, fn, function (args) {
                             try {
-                                var props = args[1];
-                                if (props && typeof props.placeholder === "string") {
-                                    var repPh = trValenced(props.placeholder);
-                                    if (repPh !== props.placeholder) {
-                                        args[1] = props = Object.assign({}, props, { placeholder: repPh });
-                                    }
-                                }
-                                if (props && typeof props.children === "string") {
-                                    var rep = trValenced(props.children);
-                                    if (rep !== props.children) {
-                                        args[1] = Object.assign({}, props, { children: rep });
-                                    }
-                                } else if (props && Array.isArray(props.children)) {
-                                    var changed = false;
-                                    var nextArr = [];
-                                    for (var j = 0; j < props.children.length; j++) {
-                                        var item = props.children[j];
-                                        if (typeof item === "string") {
-                                            var repItem = trValenced(item);
-                                            if (repItem !== item) changed = true;
-                                            nextArr.push(repItem);
-                                        } else {
-                                            nextArr.push(item);
-                                        }
-                                    }
-                                    if (changed) {
-                                        args[1] = Object.assign({}, props, { children: nextArr });
-                                    }
+                                if (args[1] && typeof args[1] === "object") {
+                                    var newP = patchPropsObject(args[1]);
+                                    if (newP !== args[1]) args[1] = newP;
                                 }
                             } catch (e) {}
                             return args;

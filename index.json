@@ -458,8 +458,8 @@
         },
         "2.6.0": {
           "url": "https://raw.githubusercontent.com/battleteamsph-stack/bahr-platform/main/bahr.guard@2.6.0.zip",
-          "sha256": "e0d3ba0e989ec42b61e19577f16b57719cb7830d05cdf2bc52c7885e1e8e6080",
-          "size": 74705,
+          "sha256": "5a4e84ccdd237c9134650997543d5c2ee7f4694e4b3830d564edec99f4bf1226",
+          "size": 74767,
           "ChangeLog": "v2.6.0: قفل صارم على نموذج Gemini 4 Hydrogen بمستوى تفكير منخفض (Low)، سياسة انعدام التبديل (ZERO Fallback)، إيقاف فوري عند حد الاستخدام (Rate-limit)، وتنسيق توجيه فائق السرعة وتوفير التوكنات.",
           "dependencies": {
             "valenced.api": {
@@ -471,7 +471,7 @@
           }
         }
       },
-      "sha256": "e0d3ba0e989ec42b61e19577f16b57719cb7830d05cdf2bc52c7885e1e8e6080",
+      "sha256": "5a4e84ccdd237c9134650997543d5c2ee7f4694e4b3830d564edec99f4bf1226",
       "version": "2.6.0"
     }
   }
